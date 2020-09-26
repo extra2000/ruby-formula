@@ -19,3 +19,7 @@ jobs:
           - npx semantic-release
         on:
           all_branches: true
+
+notifications:
+  slack:
+    secure: LsQwQHYRFGGgg15hZ0vSwHcpNduUEjgzZU8iiqqPWR0LO0kMqpIZ89PcC8vgfwy/dC2Hm7y1ZNg0RtcCVsbbaOrkEZfluRW5DuG5PgpAeZIwckrgDh5s1upqnK8UdXC7okxriPJ/IwqFgMvRzoAVODI32Hului4jdKGWVQYpBP7Quep1GTQtDZhm5uOvpv5UmTp/OoOiHIYmW5syIS9imDkouBKWNYkZd02QW5IFtFKdCU7XlGt/t83XtU94eeipxlu5fIEs4VAqRU0oN5R6a35QdzSWv7uSGgns6/P8pEu00r9Gh0oor3VA4DbslCqDBHIbpGuap5yFkusRqPzmqZV445StLG8JiJJazJ4PEyuLjMd1GLmtwXXaheJ6gTsiQVpDLRULdGVGPKO10lFfgTNB+dsKdHZlEbvtyELnbFsPmxja3zgiYzbuZvWDcPBdI1/JtOi+C+acOv8RgXl+ZuDRRiZXyPB8W17oBkgOSZg6/O6ROUYm8O2r/nj3ubvE/XJQLjpgGqsniBfu2noGUl8+CWxuxnFE64Iwf+Rke2F5ai5Y4fnvgiTBwnz2+2KN5ycIW15YPiId2//pnRsdnWBcuHDqiXUMa/usmMfADRjA1cVSRtBZcVMLofIncq1TnzT91h7rQorXuo21uhmMOHOlx342dyu1x9ZOzUxwvnI=
