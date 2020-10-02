@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.5](https://github.com/extra2000/ruby-formula/compare/v1.0.4...v1.0.5) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([d093300](https://github.com/extra2000/ruby-formula/commit/d09330056ea10627a6888c4522f358a35e48d320))
+
 ### [1.0.4](https://github.com/extra2000/ruby-formula/compare/v1.0.3...v1.0.4) (2020-10-01)
 
 
