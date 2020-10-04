@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.6](https://github.com/extra2000/ruby-formula/compare/v1.0.5...v1.0.6) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([6bc943a](https://github.com/extra2000/ruby-formula/commit/6bc943a63b836985f4e628e2fbc2320bf6ddd40a))
+
 ### [1.0.5](https://github.com/extra2000/ruby-formula/compare/v1.0.4...v1.0.5) (2020-10-02)
 
 
